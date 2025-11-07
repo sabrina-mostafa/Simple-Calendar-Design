@@ -4,7 +4,7 @@
 ## "A Sample Responsive Calendar Page Creation using HTML & CSS only"
 <br/>
 
-    live link : https://sabrina-mostafa.github.io/Simple-Calendar-Design/
+    live link : https://sabrina-mostafa.github.io/Simple-Calendar-DESIGN/
 
 ## My site is live at :
-https://sabrina-mostafa.github.io/Simple-Calendar-Design/
+https://sabrina-mostafa.github.io/Simple-Calendar-DESIGN/
